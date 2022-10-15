@@ -1,0 +1,375 @@
+{
+  "kredit": {
+    "KebisinganKey": {
+      "pribadi": {
+        "tipe": "Penyangga",
+        "data": "UPCynwi2V8LTLC32vaskh48/9JmzTs0pRKmMILAIUH0="
+      },
+      "publik": {
+        "tipe": "Penyangga",
+        "data": "zJMZNuQHVbXwIZ1gqlFredVqnkuEZ80sooO4dRHwrzY="
+      }
+    },
+    "signedIdentityKey": {
+      "pribadi": {
+        "tipe": "Penyangga",
+        "data": "iK9hSR6y9+lImclfy6sjmc7rXnRM6Auwnl98aVxUbFs="
+      },
+      "publik": {
+        "tipe": "Penyangga",
+        "data": "hBTQwgAjo1teoBBNfmgcQDkm4nKb6HvwzPzJVoukMXE="
+      }
+    },
+    "signedPreKey": {
+      "pasangan kunci": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "2EMbp+GxRFUpJXXwZriyP5wH28i2y7mS9zDnBHuDM0M="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "LYg5AZpH1o8/03DYDApxojQKJuahzyCG+FmhKUyXETw="
+        }
+      },
+      "tanda tangan": {
+        "tipe": "Penyangga",
+        "data": "jbsahKHI8mXbTPK/haQHDjOkFlfgieFW0CNr+Z+gfl8Uw9eF0WgQeRUtdBrIf2Bmfr3UYolLX1Tb0XYTpfoqjQ=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 11,
+    "advSecretKey": "nppLgFiumB6adMUnSryeWmXfdpIboYcFL5FAUwLmJJQ=",
+    "processedHistoryMessages": [],
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "pengaturan akun": {
+      "unarchiveChats": salah
+    },
+    "Akun": {
+      "detail": "COyMo5AHEJDSn5oGGAE=",
+      "accountSignature": "qMJKPA0lrcuYAkXs75AH+0Wigna6wZw6qQRImTfcRAGhE2aNKJHkcQo3ssWqgRVWphG+1P/qEo9E8r4cpp5PDQ==",
+      "deviceSignature": "M9bUdEHPsHqV/15gW4EbbpeTZws4/0rzLnUIxXjN12vNyxptLuff7Uh/3sMq+JusF2dSKehHt93Mt3O0sCT1hQ=="
+    },
+    "saya": {
+      "id": "6288905190442:8@s.whatsapp.net"
+    },
+    "identitas sinyal": [
+      {
+        "pengidentifikasi": {
+          "nama": "6288905190442:8@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "kunci pengenal": {
+          "tipe": "Penyangga",
+          "data": "BXdx1DBt0agISesu0WNOhHVMLMrxg2ighA4hXzUxJo0s"
+        }
+      }
+    ],
+    "platform": "android",
+    "lastAccountSyncTimestamp": 1665657106
+  },
+  "kunci": {
+    "preKeys": {
+      "1": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "mHUHTb9kipE94OQ6eLHJfIrT3Us88MKJmVgOSIgLuHw="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "kQ3bvPU2/Rzc4i+NeHfKDnzX6zavCbxbuqdfDa1F/Rg="
+        }
+      },
+      "2": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "IEGIASzaALvLNhs1vzXDy5xio4hvTUoKlO3Zr8uDjl8="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "xBEbJ4aQyHPmoKB2RPHoBtKJ+jQJBUstrpZSDQMQ2Uo="
+        }
+      },
+      "3": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "0EARRY4RwjBv3lOcgHj2MfzyyElCvPuD+0cxLS4TyFU="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "C7Wxl/PM9T7Zu+7LEezHWiW8egbGoHc96Zds20udIhI="
+        }
+      },
+      "4": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "cP4YhGK42WLpIVz6i3kKESHxlSXkmHs5uPVF7tznJEQ="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "VQkoGhAKKLWr4vxDpXRdel6SA7VQtzXxK7X+9SB5sSk="
+        }
+      },
+      "5": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "AN0erTjgeAUZiUjCDLroSzjxhAiOCKjaHVr9f0wxr20="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "feJV2vSOKsfT5JBKMO4jPvW+tvlHMjZ6HY2BWoTEYCI="
+        }
+      },
+      "6": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "CGfhlBtioE3/ztbwXrss3bq8VKLeiMpUaqrN9o0DAFs="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "WLnDcJEaA7uvRrD7t7IUU0FscSHl89TyPzsENBR9oWA="
+        }
+      },
+      "7": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "GLJ/aOuPRN2kUWBlHrwh0X5obiTFw4IvpazI6SvZJFg="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "nFjUvZjNnc4vSlrD8rilQLcC6pCg35vNdgElMmovyC4="
+        }
+      },
+      "8": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "YG7z/rIeaq5GIvxdw2Rz8swGRjWj4NDzP2oRRtmPTWA="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "JB2EEYyK0uCbP1Ko2VKQARczbkdhCBZ85j6smu8iyjY="
+        }
+      },
+      "9": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "SJROBNN2Bwi/QC5Zuz6MgItf3acCYpvUVR733ILD+kE="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "7bT6vBmbV4fKMGTxWkbyDicmYcfvlofBIDzTy8Y5ugw="
+        }
+      },
+      "10": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "AN7sUM1s9rztMbno4NAjW2Ecz61YWGCwXqn2IC4vEEQ="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "HEstMtt8M8Ngia3A9CLZRMw99luB6D89fcDk+JogJnY="
+        }
+      },
+      "11": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "mL9ToIGbpFxJNet3gzFoFePuc/VCyo0X75W6FcZtpXM="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "pLGyvVtjzIF6DkWFUzlZ89+WDjIU5DH+CSDJVuz6OSc="
+        }
+      },
+      "12": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "MKrru4UUECW0zJhMDEeRZ65+PNC6i+QdmUyo3+jFP0s="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "sPaDe/OZHrqMkmRUBlUtDUD2P6Bcc+6JWLUSHIR4dhk="
+        }
+      },
+      "13": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "cAMN9WkiVBIZZuMLoZVkpnA9J22Gf3zvtDgtxjKDgm8="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "0Dr3IE5IZEjrf2wVtWOrVw2s3PYMVKKkAtlo/2zJsVE="
+        }
+      },
+      "14": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "eG5AAjdzODUIOzesZtRusP0EssE30mjAMLpPGZdY4F0="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "J0xm4Ik2hhKzt3l3A5gbd5G0vCLI2dcKTTAAazVwUEA="
+        }
+      },
+      "15": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "+CF7xxmLQ1DLRAfIaoSGhazMz6NmYIQwKwVepgQ2+0E="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "ccVt0UoSFcw9nAEN5BJjxZZSspwBYWFvTZqeEwSJmSY="
+        }
+      },
+      "16": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "6CtJM6hBqdeCFxTJDdBSlKQ8bAeoQt87vj9lJfav3m4="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "j8FhhSMGp7SC2jqoZahmEsQRNeurVmQpqQNNSzFP6CE="
+        }
+      },
+      "17": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "sNQplfxaigNyuahXli3cLzpWq+OkkuVcrIfUKr+/5UQ="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "bNwK8tM9766Yz2octfrNc8C02cIIHx/kv0i6Iqr9UxY="
+        }
+      },
+      "18": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "KCaL0xdsF6plRY7Fj31Tvp7r1ZkzGcsGAR2lreZ/fm4="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "ZHlMdYQ/P04cmQR8jS8A+EwBVhF03XKLs085biVm91s="
+        }
+      },
+      "19": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "4CSknSnoofHZbmwGrf9SJZQe/poRGj28fqBZYVhoUVI="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "DJ5GHaCfzTN9idjmjDY0Xik2U0MoicG+97kIk+1WFD0="
+        }
+      },
+      "20": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "sHBNNmkpgtzFpT6B0TrPpxL9qhhSYdq0eZuKvJtba2Q="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "qK0JTbaSyaHei6vFoj64xegJkEJm+CWj0IxmTsXM8kU="
+        }
+      },
+      "21": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "oOAwTsfNChxC4X37Zg80Tf9+A9S8LYDEpX2j1DD/Ll8="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "6W79A5yLyWBfTmVNMPALyKWSCBIdqldF2FNkBZ6ys1w="
+        }
+      },
+      "22": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "4IPvo5RXSkbnchNf7gHUw3JAJMRtHySsjJx8w0vMpXU="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "gisySI8wxqAjtF/hse7JiEZEu08E/Sp5OBmV84KLXBA="
+        }
+      },
+      "23": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "kIERbGy1C8eAOTNwJ0aj6SlJc9+kx0QiS/aHTz3dE0Y="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "jkuj/AjNuFeteROpJ69RnvRmHDub4C1l9/KL85S5fCw="
+        }
+      },
+      "24": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "sEkoS6k3FH2XhpkyL7MMmFSiHcVhnoagw8ZCaAkfQGs="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "zQp5Ja9tTqzyenMHlMOS7SH6IcxSPIwsD5+MzRbXfw4="
+        }
+      },
+      "25": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "IFpvg44g1mPb8pqOZZdY+ieVHk7aaYVcbu2NylWrNnY="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "/wgvIfHLekxBXT9ytCTwfnrJFgK9bIIlBp26Yv0aB2g="
+        }
+      },
+      "26": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "gNDZ7FVq8m2FDad2NqkeMwkgoWBZ5ZyLFdRT4Wsj1Fw="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "QY5O91jTYkzjVytzmcLSyHAfmTLcdQombRJDPWklIhk="
+        }
+      },
+      "27": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "IHC8DRlfgRdDYYuWQ0PxsyRdUrqFDN6WLLTSnfBq1ko="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "7tzEFPdSPIA7ZSh3CLybPsksDKfFvGMJgfF538eF608="
+        }
+      },
+      "28": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "8PjvIbOILniCMWnYjKVK+Y+7hG6dFJH/DLE/KCiqg2I="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "Rj3p1FqDxdQX7qHip5agyexaKlg4i1z8qPwAA/9qEx0="
+        }
+      },
+      "29": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "OFqeyM478G+IhjhtzqhCkWskC2T9afHsy7ek30VW2Hs="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "tcleQfd9N3MzOKoflxqB2gnYajjKBZAANtjAESuMPyA="
+        }
+      },
+      "30": {
+        "pribadi": {
+          "tipe": "Penyangga",
+          "data": "gKw0ycFxuv7wn28ZeG3MDp9J0rNjk8c+MpJ/HG4rQ08="
+        },
+        "publik": {
+          "tipe": "Penyangga",
+          "data": "st+FgZZTY2e2/FJDjRB27j6+LYivDepzAO8IA2QbkUk="
+        }
+      }
+    }
+  }
+}
